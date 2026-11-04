@@ -1,4 +1,4 @@
-# Capstone 1: EmporiUm Sales Territory Analysis (New York)
+# Capstone 1: Sales Territory Analysis (New York)
 
 **Author:** Abdelouahab Bendanoune
 **Program:** Year Up United, Data Analytics Training Academy (Week 4 Capstone: Data Storytelling, Excel & SQL)
