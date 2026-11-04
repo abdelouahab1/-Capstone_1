@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-EmporiUm is a growing student bookstore chain that also sells tech products, art supplies, and other merchandise in stores and online. This project analyzes the sales of one territory for a sales manager, using SQL (MySQL) for the analysis and Excel for a PivotChart.
+This project analyzes the sales of one territory for a sales manager, using SQL (MySQL) for the analysis and Excel for a PivotChart.
 
 ## Territory Analyzed
 
