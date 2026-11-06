@@ -57,11 +57,16 @@ The sales manager asked the following questions. Each is answered in the SQL scr
 
 ## PivotChart
 
-*Working on it*
+* https://yearuptemp-my.sharepoint.com/:x:/g/personal/abendanoune_my_yearupunited_org/IQDeBbxx5gbtQbzWSWgqS177ASEp-hMYucKPUdCq85NWyj0?e=x2L2hC *
 
 ## Video Demo
 
-*Working on it*
+* https://drive.google.com/file/d/12m2a3D1qJAWQO2DpY7XzkRgjeE3u4zHZ/view?usp=sharing it*
+
+
+## PowerPoint presentation
+
+* https://yearuptemp-my.sharepoint.com/:p:/g/personal/abendanoune_my_yearupunited_org/IQBjE1bEL9CnTbpU6R5wGbzyAfQDbFjJMt0lRnHDMcJivKA?e=foBJLS *
 
 ## How to Run
 
